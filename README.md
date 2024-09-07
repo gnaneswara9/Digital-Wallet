@@ -1,1 +1,1 @@
-##A clone of popular digital wallets
+## A Clone of Popular Digital Wallets
